@@ -1,2 +1,6 @@
 # desafio-logica-inicial
-desafio dio bootcamp
+Desafio dio bootcamp 
+
+Projeto do heroi e seus níveis
+
+
